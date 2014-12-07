@@ -1,0 +1,22 @@
+@Congratulations!! You beat the game!!
+@Press ENTER/RETURN to replay
+@Made by Sri Harsha Chilakapati for LD31
+@If you like this little game, please share
+@with your friends too.
+
+
+ SSSSSSSSSSSSSSSSSSSSSSS
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ SSSSSSSSSSSSSSSSSSSSSSS

@@ -1,0 +1,21 @@
+@You are doing great, but there is still more to do.
+@It is not only you, the cats are also searching for..
+@.. food. You should go gather food, but don't become..
+@.. food for those cats. Good Luck!
+
+
+ SSSSSSSSSSSSSSSSSSSSSSS
+ S        SS           S
+ S  C     SS           S
+ S        SS           S
+ S        ST    C      S
+ S                     S
+ SSSSSSS               S
+ S   H          SSSSSSSS
+ S                     S
+ S                     S
+ S      C              S
+ SSSSSS     SSS C      S
+ S                     S
+ SM                    S
+ SSSSSSSSSSSSSSSSSSSSSSS

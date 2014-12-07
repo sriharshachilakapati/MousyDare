@@ -1,0 +1,22 @@
+@You are doing better, but life is not just..
+@.. about eating and sleeping, you also face..
+@.. certain challenges. If you look, you can see..
+@.. some traps out there in the field. If you hit..
+@.. them, you have to start over.. So go avoid them.
+
+
+ SSSSSSSSSSSSSSSSSSSSSSS
+ S        SS          TS
+ S  C     SS           S
+ S  T     SS           S
+ S        ST    C      S
+ S              T      S
+ SSSSSSS               S
+ S              SSSSSSSS
+ S                     S
+ S                     S
+ S      C              S
+ SSSSSS T   SSS C      S
+ S                     S
+ SM                    S
+ SSSSSSSSSSSSSSSSSSSSSSS

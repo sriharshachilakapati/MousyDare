@@ -1,0 +1,18 @@
+@Aha! Cats and Traps! Sounds rhythmic..
+
+
+ SSSSSSSSSSSSSSSSSSSSSSS
+ SC        SSS        CS
+ S   TT    SSS    TT   S
+ S         SSS         S
+ SSSSS          H  SSSSS
+ SC                   CS
+ S        S   S        S
+ S  T    SS C SS   T   S
+ S        S   S        S
+ S    H                S
+ SSSSS             SSSSS
+ S         SSS         S
+ S         SSS         S
+ SM        SSS         S
+ SSSSSSSSSSSSSSSSSSSSSSS

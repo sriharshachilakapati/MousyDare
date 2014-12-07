@@ -1,0 +1,23 @@
+@Hello! Welcome to MousyDare Tutorial
+@You are a cute little mouse, striving hard to live
+@In order to live, you need to eat cheese
+@The ultimate goal of the day is to return home safe
+@Note that you can't go home hungry, you must fill..
+@.. your tummy will all the cheese you see to go home.
+
+
+ SSSSSSSSSSSSSSSSSSSSSSS
+ SC                   CS
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ S          C          S
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ S                     S
+ SM                   CS
+ SSSSSSSSSSSSSSSSSSSSSSS
