@@ -194,15 +194,34 @@ public class Main extends Core
             {
                 pixel = img.getRGB(x, y);
 
-                if (isTransparent(pixel))
-                {
-                    if (!isTransparent(prevPixel))
-                        vertices.add(new Vector2f((newWidth/width) * (x-1), (newHeight/height) * y));
-                }
-                else
+                if (!isTransparent(pixel))
                 {
                     if (isTransparent(prevPixel))
-                        vertices.add(new Vector2f((newWidth/width) * x, (newHeight/height) * y));
+                    {
+                        vertices.add(new Vector2f((newWidth / width) * x, (newHeight / height) * y));
+                        break;
+                    }
+                }
+
+                prevPixel = pixel;
+            }
+        }
+
+        prevPixel = 0;
+
+        for (int y = height - 1; y >= 0; y--)
+        {
+            for (int x = width - 1; x >= 0; x--)
+            {
+                pixel = img.getRGB(x, y);
+
+                if (!isTransparent(pixel))
+                {
+                    if (isTransparent(prevPixel))
+                    {
+                        vertices.add(new Vector2f((newWidth / width) * x, (newHeight / height) * y));
+                        break;
+                    }
                 }
 
                 prevPixel = pixel;
@@ -458,7 +477,7 @@ public class Main extends Core
 
         // Draw the score
         String scoreStr = "Score: " + (int) score;
-        g.drawString(scoreStr, 590 - g.getFont().getWidth(scoreStr), 10);
+        g.drawString(scoreStr, 790 - g.getFont().getWidth(scoreStr), 10);
     }
 
     @Override

@@ -87,6 +87,12 @@ public class Cat extends ShapedEntity
 
         polygon.translateTo(getPosition().getX(), getPosition().getY());
 
+        // Some Hard coding, just for LD
+        if (horizontal)
+            polygon.translate(0, 15);
+        else
+            polygon.translate(15, 0);
+
         return polygon;
     }
 }
